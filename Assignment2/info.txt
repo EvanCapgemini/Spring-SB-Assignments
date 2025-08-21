@@ -1,1 +1,6 @@
 How to run:-
+Right click --> UserInterface.java --> run as --> Java Application.
+
+Output:
+Trainee added successfully with id: 1008
+TraineeDTO [id=1001, name=Adam, phoneNo=9658014355, desktop=DesktopDTO [machineName=MYSGEC111111D, make=Acer]]
