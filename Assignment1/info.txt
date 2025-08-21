@@ -1,1 +1,5 @@
 How to run:-
+Right-click --> insurance-app --> run as --> Spring Boot App --> select --> UserInterface.
+
+Output:
+The policy successfully added with policy number: WL-553912.
